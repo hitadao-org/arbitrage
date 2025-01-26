@@ -1,1 +1,1 @@
-nohup ./CoinPriceMonitor -conf ./conf/config.toml >nohup.out 2>&1 &
+nohup ./CoinPriceMonitor btc lt 98000 >nohup.out 2>&1 &

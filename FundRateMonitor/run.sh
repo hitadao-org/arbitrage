@@ -1,0 +1,1 @@
+nohup ./FundRateMonitor -conf ./conf/config.toml >nohup.out 2>&1 &
