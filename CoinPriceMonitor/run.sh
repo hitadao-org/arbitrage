@@ -1,0 +1,1 @@
+nohup ./CoinPriceMonitor -conf ./conf/config.toml >nohup.out 2>&1 &
